@@ -1,4 +1,4 @@
-# VisionAssist
+# VisionAssist - Augmented Reality
 
 VisionAssist is a project designed to assist blind people by providing audio descriptions of their surroundings. The system uses computer vision and natural language processing to detect objects and estimate their distance from the user, then generates spoken descriptions to inform the user about their environment.
 
